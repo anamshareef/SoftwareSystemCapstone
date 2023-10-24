@@ -126,7 +126,7 @@ def main():
                 continue
 
 end = time.time()
-print(end-start)
+print("Duration: ", end-start)
 
 if __name__ == '__main__':
     main()
